@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Louis
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking for job right now
+- 💞️ I’m looking for a job right now
 
 
 <!---
